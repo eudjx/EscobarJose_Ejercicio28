@@ -16,4 +16,4 @@ dos=dat[20:]
 plt.plot(uno,dos)
 plt.xlabel('x')
 plt.ylabel('y')
-plt.savefig("tiro.png")
+plt.savefig("friccion.png")
